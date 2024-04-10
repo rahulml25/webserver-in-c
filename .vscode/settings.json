@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "helper.h": "c",
+        "setjmp.h": "c",
+        "windows.h": "c"
+    }
+}
